@@ -22,7 +22,7 @@ int rev = Integer.parseInt(re);
 public static void main(String args[])
 {
     palindrome p = new palindrome();
-    System.out.println(p.ispalin(-121));
+    System.out.println(p.ispalin(121));
 
 
 
