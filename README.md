@@ -22,6 +22,7 @@ poonam
 | [1651-shuffle-string](https://github.com/darahan11416/LEETCODE/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/darahan11416/LEETCODE/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/darahan11416/LEETCODE/tree/master/1944-truncate-sentence) |
+| [2058-concatenation-of-array](https://github.com/darahan11416/LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/darahan11416/LEETCODE/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -32,4 +33,8 @@ poonam
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/darahan11416/LEETCODE/tree/master/2128-reverse-prefix-of-word) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/darahan11416/LEETCODE/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
